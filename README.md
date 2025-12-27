@@ -1,4 +1,4 @@
-##👋 Hello, I'm Megan Sadio!
+## 👋 Hello, I'm Megan Sadio!
 
 I'm currently a third-year college student from the Philippines pursuing a degree in Interactive Entertainment with a major in Game Development. 
 
